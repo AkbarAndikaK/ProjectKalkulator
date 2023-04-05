@@ -3,7 +3,7 @@
 
 <p>Tema : Web Calculator</p>
 
-<p>Website : https://satriaberliano.github.io/WebCalculator/</p>
+<p>Website : </p>
 
 Tampilan Website : <br>
 <img src=assets/dokumentasi-web-calculator.png alt="Dokumentasi" width="600px"/><br>
